@@ -1,5 +1,5 @@
 # OOPDP-Lab SP-21
-Day 1:
+## Day 1:
 
  Q1. Take input from user a character variable in a program and if the value is alphabet then print
      "Alphabet" if it’s a number then print "Digit" and for other characters print "Special 
@@ -21,7 +21,7 @@ Day 1:
      
      Ex: Array -> 10,20,10,30,40,100,99 O/P:10.
 
-Day 2:
+## Day 2:
  
  Q1. Write a Java program to print the Fibonacci series upto N.
      
