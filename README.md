@@ -40,3 +40,55 @@
  Q4. Write a java program to check whether a number is palindrome or not.
  
      Ex: 1001 is a Palindrome
+     
+  
+ ## Day 3:
+ 
+ Q1. Write a program to reverse the elements of a given 2*2 array. 
+     Four integer numbers need to be passed as Command-Line arguments
+     
+     Ex:  I/P               O/P
+          1 2               4 3
+          3 4               2 1
+
+ Q2. Write a program to find the greatest number in a 3*3 array. 
+     The program is supposed to receive 9 integer numbers as command-line arguments.
+     
+     Ex:   I/P              O/P
+          1 2 3              9
+          3 4 5						
+          6 7 9
+
+ 
+ Q3. Write a program in Java with class Rectangle with the data fields:
+ 
+   - width 
+   - length 
+   - area
+   - color
+   >
+    The length, width, and area are of double type and the color is of string type. 
+    The methods are:
+  - set_length()
+  - set_width() 
+  - set_color() 
+  - find_area(). 
+     >
+     Create two objects of the rectangle and compare their area and color. 
+     If area and color same for the objects then display “Matching Rectangles” otherwise display “Non-Matching Rectangle”.
+     
+     Ex:
+     For rectangle one:	        
+     1    
+     2
+     Red
+     For rectangle two:
+     2
+     1
+     Red
+
+     Output:
+     >
+     Rectangles Matched Area: 2
+
+     Color is Red
