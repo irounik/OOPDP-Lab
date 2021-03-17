@@ -26,6 +26,7 @@ public class IsPalindrome {
 			Scanner sc = new Scanner(System.in);
 			System.out.println("Enter a number: ");
 			String str = sc.next();
+			sc.close();
 			
 			String ans = isPal(str) ? " is a Palindrome" : " is not a Palindrome";
 			System.out.println(str+ans);
